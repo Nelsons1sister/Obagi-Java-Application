@@ -6,7 +6,7 @@ public class Summing{
 		
 		for(int i = 1; i < 10; i++){
 			if(i >= 4 && 1 <= 6){
-				sumOf4_6 += num[1];
+				sumOf4_6 += nu   m[1];
 			}
 			if(i >= 5 && i <= 9){
 				sumOf5_9 += num[i];
